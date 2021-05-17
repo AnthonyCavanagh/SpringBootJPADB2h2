@@ -1,0 +1,3 @@
+2021-04-11 20:17:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FUND" not found; SQL statement:
+select fund0_.fund_id as fund_id1_0_0_, fund0_.buy as buy2_0_0_, fund0_.expiration_date as expirati3_0_0_, fund0_.fund_name as fund_nam4_0_0_, fund0_.publish_date as publish_5_0_0_, fund0_.sell as sell6_0_0_ from fund fund0_ where fund0_.fund_id=? [42102-200]
